@@ -25,11 +25,12 @@
 | 🧹 **Limpeza** | Apaga arquivos temporários, caches e restos de atualizações — seus documentos, fotos e senhas nunca são tocados. |
 | 🗑️ **Desinstalador** | Remove vários programas de uma vez e procura as sobras que ficam para trás. |
 | ⚙️ **Otimizações** | Menos propaganda, menos rastreamento e um Windows mais rápido — tudo pode ser desfeito. |
-| 🖥️ **Meu PC, Discos e Drivers** | Peças do computador, saúde do HD/SSD e aparelhos sem driver. |
+| 🖥️ **Meu PC e Discos** | Peças do computador e saúde do HD/SSD. |
+| 🔌 **Drivers** | Aparelhos sem driver, drivers pelo Windows Update e driver da placa de vídeo NVIDIA, AMD ou Intel pelo instalador oficial, com a assinatura conferida. |
 | 🌐 **Rede** | Teste de internet que diz onde está o problema, com histórico e comparação. |
 | 📊 **Benchmark** | Meça o desempenho e compare antes e depois de uma mudança. |
 | ⏻ **Inicialização** | Veja o que abre junto com o Windows, com ícone e explicação de cada programa, e desligue o que não precisa. |
-| 🌍 **Idiomas e tema** | Português do Brasil, português de Portugal, español e English. Tema claro, escuro ou igual ao Windows. |
+| 🌍 **Idiomas e tema** | Português do Brasil, português de Portugal, español e English. Abre no idioma e no tema do Windows; o tema troca na hora, com um clique. |
 
 ## Como baixar e instalar
 
