@@ -28,6 +28,8 @@
 | 🖥️ **Meu PC, Discos e Drivers** | Peças do computador, saúde do HD/SSD e aparelhos sem driver. |
 | 🌐 **Rede** | Teste de internet que diz onde está o problema, com histórico e comparação. |
 | 📊 **Benchmark** | Meça o desempenho e compare antes e depois de uma mudança. |
+| ⏻ **Inicialização** | Veja o que abre junto com o Windows, com ícone e explicação de cada programa, e desligue o que não precisa. |
+| 🌍 **Idiomas e tema** | Português do Brasil, português de Portugal, español e English. Tema claro, escuro ou igual ao Windows. |
 
 ## Como baixar e instalar
 
