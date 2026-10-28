@@ -63,4 +63,4 @@ Use a página **Sugestões** dentro do próprio HUB Pro — a mensagem chega dir
 
 ---
 
-<sub>© 2026 Mestres da Informática.</sub>
+<sub>© 2026 Mestres da Informática. A base do HUB Pro junta ferramentas próprias do canal (Turbinador e MestreBench), o Dism++ como referência e inspiração no ResetExplode, do canal Reset — veja [LICENCAS-TERCEIROS.txt](LICENCAS-TERCEIROS.txt).</sub>
