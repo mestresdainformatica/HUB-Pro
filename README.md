@@ -20,7 +20,7 @@
 ## Índice
 
 - [Como baixar e instalar](#como-baixar-e-instalar)
-- [Novidades da versão 0.2.6](#novidades-da-versão-026) · [0.2.5](#novidades-da-versão-025)
+- [Novidades da versão 0.2.7](#novidades-da-versão-027) · [0.2.6](#novidades-da-versão-026) · [0.2.5](#novidades-da-versão-025)
 - [Guia de cada tela](#guia-de-cada-tela)
   - [Painel](#painel) · [Pós-formatação](#pós-formatação) · [Programas](#programas)
   - **Meu PC:** [Meu PC](#meu-pc) · [Saúde dos discos](#saúde-dos-discos) · [Pendrive falsificado](#pendrive-cartão-ou-hd-externo-falsificado) · [Bateria](#bateria) · [Windows 11](#windows-11) · [Drivers](#drivers) · [Rede](#rede)
@@ -50,10 +50,14 @@
 
 ---
 
+## Novidades da versão 0.2.7
+
+- **Vídeo novo do canal:** o cartão do Painel não some mais depois de clicar em Assistir. Ele mostra "Assistir de novo" e só sai pelo X.
+
 ## Novidades da versão 0.2.6
 
 - **Sugestões:** agora chegam pelo próprio site do canal, com proteção contra spam.
-- **Vídeo novo do canal:** o aviso volta a aparecer mesmo quando a lista de vídeos do YouTube está fora do ar. O cartão do Painel não some mais ao clicar em Assistir: ele sai na próxima vez que o HUB abrir.
+- **Vídeo novo do canal:** o aviso volta a aparecer mesmo quando a lista de vídeos do YouTube está fora do ar.
 
 ## Novidades da versão 0.2.5
 
