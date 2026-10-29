@@ -50,19 +50,26 @@
 
 ---
 
+## Novidades da versão 0.2.8
+
+- **Textos revisados em todas as telas:** explicações que não batiam com o que o HUB faz foram corrigidas, e nomes de botões e telas ficaram iguais em todo o programa.
+- **Saúde dos discos:** o Teste completo de pendrive agora avisa que, num aparelho falsificado, a gravação pode estragar o que já estava nele. Faça backup antes.
+- **Benchmark:** as explicações das notas de dia a dia e de IA agora usam a referência certa (um PC médio de hoje) e dizem que elas contam na pontuação geral.
+- **Sugestões:** explicação atualizada e aviso claro quando chega ao limite de envios.
+
 ## Novidades da versão 0.2.7
 
 - **Vídeo novo do canal:** o cartão do Painel não some mais depois de clicar em Assistir. Ele mostra "Assistir de novo" e só sai pelo X.
 
 ## Novidades da versão 0.2.6
 
-- **Sugestões:** agora chegam pelo próprio site do canal, com proteção contra spam.
+- **Sugestões:** novo sistema de envio, mais confiável e com proteção contra spam.
 - **Vídeo novo do canal:** o aviso volta a aparecer mesmo quando a lista de vídeos do YouTube está fora do ar.
 
 ## Novidades da versão 0.2.5
 
 **Funções novas**
-- **Backup para formatar:** salve os drivers e as redes Wi-Fi num pendrive. Depois de formatar, a Pós-formatação acha o backup e devolve tudo sozinha.
+- **Backup para formatar:** salve os drivers e as redes Wi-Fi num pendrive. Depois de formatar, a Pós-formatação acha o backup sozinha e devolve tudo com um clique.
 - **Reparar o Windows:** DISM, SFC, verificação do disco, banco de dados WMI, cache de ícones e configuração de internet, com um resumo simples no fim.
 - **Pontos de restauração:** veja, crie, apague e volte o Windows para uma data em que tudo funcionava.
 - **Mapa do disco:** veja num mapa de blocos o que está enchendo o disco.
@@ -150,8 +157,8 @@ Mostra se cada HD, SSD, HD externo, pendrive e cartão está saudável: temperat
 
 Na aba **Verificar se é original**, da tela Saúde dos discos. Muitos pendrives e cartões vendidos como "1 TB" ou "2 TB" guardam só alguns GB. O que passa disso some ou apaga o que já estava lá.
 
-- **Teste rápido:** grava e confere cerca de 1.500 pontos espalhados por toda a capacidade e devolve os dados originais no fim. Em poucos minutos mostra **quanto o aparelho guarda de verdade**.
-- **Teste completo:** enche o espaço livre com arquivos de teste, confere tudo e apaga no fim. Não mexe nos seus arquivos.
+- **Teste rápido:** grava e confere mais de 1.000 pontos espalhados por toda a capacidade e devolve os dados originais no fim. Em poucos minutos mostra **quanto o aparelho guarda de verdade**.
+- **Teste completo:** enche o espaço livre com arquivos de teste, confere tudo e apaga no fim. Faça backup antes: num aparelho falsificado, a gravação pode estragar o que já estava nele.
 - **Identificação do aparelho:** mostra o que o próprio aparelho informa. Isso inclui o fabricante pelo código USB (VID/PID), o número de série, a versão e a velocidade do USB e o consumo. Aparecem **sinais de alerta**, como marca que não bate com o chip USB, número de série genérico, ou aparelho "USB 3" funcionando como USB 2.
 
 O disco do Windows e os discos internos nunca são testados. A identificação dá pistas, mas a prova de verdade é o teste de gravação.
@@ -330,7 +337,7 @@ Lista tudo o que o HUB mudou no PC (ajustes, programas da inicialização, desin
 
 <img src="assets/telas/backup-formatar.png" width="820" alt="Backup para formatar"/>
 
-Antes de formatar, salve **os drivers e as redes Wi-Fi (com as senhas)** num pendrive. Depois de formatar, conecte o pendrive, abra o HUB e vá em **Pós-formatação**: o HUB acha o backup e devolve tudo sozinho.
+Antes de formatar, salve **os drivers e as redes Wi-Fi (com as senhas)** num pendrive. Depois de formatar, conecte o pendrive, abra o HUB e vá em **Pós-formatação**: o HUB acha o backup e devolve tudo com um clique em **Restaurar drivers e Wi-Fi deste backup**.
 
 **Atenção:** o arquivo das redes Wi-Fi guarda as senhas em texto legível. Guarde o pendrive com cuidado e apague a pasta do backup depois de usar. Seus arquivos pessoais (fotos, documentos) não entram neste backup: copie esses à parte.
 
