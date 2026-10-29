@@ -50,6 +50,11 @@
 
 ---
 
+## Novidades da versão 0.2.9
+
+- **Programas:** a busca agora mostra o ícone de verdade de cada programa, tirado da Microsoft Store ou do site oficial dele, junto com a editora e a descrição.
+- **Verificar atualização:** sem internet, o HUB agora avisa que não deu para procurar, em vez de dizer que você já está com a versão mais recente.
+
 ## Novidades da versão 0.2.8
 
 - **Textos revisados em todas as telas:** explicações que não batiam com o que o HUB faz foram corrigidas, e nomes de botões e telas ficaram iguais em todo o programa.
@@ -367,7 +372,7 @@ Versão, créditos e onde ficam os backups e o log. Aqui também fica a chave **
 
 - O HUB Pro **não coleta dados** e não tem anúncios.
 - O relatório do Meu PC não leva o seu nome, o nome do PC, números de série, IP ou senhas.
-- A internet só é usada quando a função precisa: procurar atualizações (GitHub), instalar e atualizar programas (winget), drivers, teste de internet, a página de Sugestões e o aviso de vídeo novo (lista pública do YouTube).
+- A internet só é usada quando a função precisa: procurar atualizações (GitHub), procurar, instalar e atualizar programas (winget; na busca, o ícone vem da Microsoft Store ou do site oficial de cada programa), drivers, teste de internet, a página de Sugestões e o aviso de vídeo novo (lista pública do YouTube).
 
 ## Perguntas comuns
 
