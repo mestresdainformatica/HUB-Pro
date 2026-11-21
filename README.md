@@ -20,7 +20,7 @@
 ## Índice
 
 - [Como baixar e instalar](#como-baixar-e-instalar)
-- [Novidades da versão 0.3.33](#novidades-da-versão-0333) · [Versões anteriores](#versões-anteriores)
+- [Novidades da versão 0.3.34](#novidades-da-versão-0334) · [0.3.33](#novidades-da-versão-0333) · [Versões anteriores](#versões-anteriores)
 - [Guia de cada tela](#guia-de-cada-tela)
   - **Início:** [Visão geral](#visão-geral) · [Todas as ferramentas](#todas-as-ferramentas)
   - [Pós-formatação](#pós-formatação)
@@ -51,6 +51,12 @@
 **Requisitos:** Windows 10 (1809 ou mais novo) ou Windows 11, 64 bits.
 
 **Idiomas:** português do Brasil, português de Portugal, español e English. Na primeira vez, o HUB abre no idioma e no tema (claro ou escuro) do Windows. Para trocar, vá em **Configurações**.
+
+---
+
+## Novidades da versão 0.3.34
+
+- **Janela:** em notebook com tela pequena ou com o zoom do Windows ligado (125% ou 150%), a barra de cima com **minimizar, maximizar e fechar** ficava fora da tela. Agora o HUB abre do tamanho certo para a sua tela, sempre com a barra visível.
 
 ---
 
